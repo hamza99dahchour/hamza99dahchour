@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza DAHCHOUR</h1>
+<h1 align="center">Hamza DAHCHOUR</h1>
 <h3 align="center">Data Scientist · Ingénieur en génie informatique</h3>
 <p align="center">
 🎓 Master Data Science &amp; Business Intelligence — EDC Paris Business School (alternance Carrefour)<br/>
